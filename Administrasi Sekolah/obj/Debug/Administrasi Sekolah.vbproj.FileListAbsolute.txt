@@ -1,0 +1,146 @@
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\bin\Debug\Hayu Urang Diajar.exe.config
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\bin\Debug\Hayu Urang Diajar.exe
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\bin\Debug\Hayu Urang Diajar.pdb
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\bin\Debug\Hayu Urang Diajar.xml
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\bin\Debug\Interop.AcroPDFLib.dll
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\bin\Debug\Interop.AXVLC.dll
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\bin\Debug\AxInterop.AcroPDFLib.dll
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\bin\Debug\AxInterop.AXVLC.dll
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Administrasi Sekolah.vbprojResolveAssemblyReference.cache
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Interop.AcroPDFLib.dll
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Interop.AXVLC.dll
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\AxInterop.AcroPDFLib.dll
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\AxInterop.AXVLC.dll
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Administrasi Sekolah.vbproj.ResolveComReference.cache
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Hayu_Urang_Diajar.Supervisor.resources
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Hayu_Urang_Diajar.Crudform.resources
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Hayu_Urang_Diajar.Tu.resources
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Hayu_Urang_Diajar.Home.resources
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Hayu_Urang_Diajar.Login.resources
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Hayu_Urang_Diajar.Resources.resources
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Hayu_Urang_Diajar.pdf.resources
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Hayu_Urang_Diajar.Admin.resources
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Hayu_Urang_Diajar.Video.resources
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Administrasi Sekolah.vbproj.GenerateResource.Cache
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Administrasi Sekolah.vbproj.CoreCompileInputs.cache
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Hayu Urang Diajar.exe
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Hayu Urang Diajar.xml
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Hayu Urang Diajar.pdb
+G:\Hayu Urang Diajar\Hayu Urang Diajar\Hayu Urang Diajar\obj\Debug\Hayu_Urang_Diajar.Contoh.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Interop.AcroPDFLib.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Interop.AXVLC.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\AxInterop.AcroPDFLib.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\AxInterop.AXVLC.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.vbprojResolveAssemblyReference.cache
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Interop.AcroPDFLib.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Interop.AXVLC.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\AxInterop.AcroPDFLib.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\AxInterop.AXVLC.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.vbproj.ResolveComReference.cache
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Admin.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Crudform.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Tu.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Home.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Login.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Resources.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.pdf.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Contoh.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Video.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.vbproj.GenerateResource.Cache
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.vbproj.CoreCompileInputs.cache
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Supervisor.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Interop.InteropExtensionLib.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.exe.config
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.exe
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.pdb
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.xml
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.exe
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.xml
+G:\Administrasi Sekolah\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.pdb
+G:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.exe.config
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Interop.AcroPDFLib.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Interop.AXVLC.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Interop.InteropExtensionLib.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\AxInterop.AcroPDFLib.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\AxInterop.AXVLC.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.vbproj.ResolveComReference.cache
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.exe
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.xml
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.pdb
+G:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.exe
+G:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.pdb
+G:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.xml
+G:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Interop.AcroPDFLib.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Interop.AXVLC.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\AxInterop.AcroPDFLib.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\AxInterop.AXVLC.dll
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.vbprojResolveAssemblyReference.cache
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Admin.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Crudform.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Supervisor.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Tu.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Home.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Login.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Resources.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.pdf.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Contoh.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Video.resources
+G:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.vbproj.GenerateResource.Cache
+D:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.exe.config
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Interop.AcroPDFLib.dll
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Interop.AXVLC.dll
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Interop.InteropExtensionLib.dll
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\AxInterop.AXVLC.dll
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.vbproj.ResolveComReference.cache
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.exe
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.xml
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.pdb
+D:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.exe
+D:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.pdb
+D:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.xml
+D:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Interop.AcroPDFLib.dll
+D:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\Interop.AXVLC.dll
+D:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Administrasi Sekolah\Administrasi Sekolah\bin\Debug\AxInterop.AXVLC.dll
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.vbprojResolveAssemblyReference.cache
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Admin.resources
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Crudform.resources
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Supervisor.resources
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Tu.resources
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Home.resources
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Login.resources
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Resources.resources
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.pdf.resources
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Contoh.resources
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Video.resources
+D:\Administrasi Sekolah\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.vbproj.GenerateResource.Cache
+E:\Administrasi Sekolah1\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.exe.config
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Interop.AcroPDFLib.dll
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Interop.AXVLC.dll
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Interop.InteropExtensionLib.dll
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\AxInterop.AXVLC.dll
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.vbproj.ResolveComReference.cache
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.exe
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.xml
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.pdb
+E:\Administrasi Sekolah1\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.exe
+E:\Administrasi Sekolah1\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.pdb
+E:\Administrasi Sekolah1\Administrasi Sekolah\bin\Debug\Administrasi Sekolah.xml
+E:\Administrasi Sekolah1\Administrasi Sekolah\bin\Debug\Interop.AcroPDFLib.dll
+E:\Administrasi Sekolah1\Administrasi Sekolah\bin\Debug\Interop.AXVLC.dll
+E:\Administrasi Sekolah1\Administrasi Sekolah\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Administrasi Sekolah1\Administrasi Sekolah\bin\Debug\AxInterop.AXVLC.dll
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.vbprojResolveAssemblyReference.cache
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Admin.resources
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Crudform.resources
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Supervisor.resources
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Tu.resources
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Home.resources
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Login.resources
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Resources.resources
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.pdf.resources
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Contoh.resources
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Hayu_Urang_Diajar.Video.resources
+E:\Administrasi Sekolah1\Administrasi Sekolah\obj\Debug\Administrasi Sekolah.vbproj.GenerateResource.Cache
